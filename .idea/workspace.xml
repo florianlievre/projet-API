@@ -71,7 +71,10 @@
               <folding>
                 <element signature="n#style#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
                 <element signature="n#style#0;n#div#3;n#div#2;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
               </folding>
@@ -80,6 +83,7 @@
         </entry>
       </file>
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
@@ -87,17 +91,23 @@
               <first_editor relative-caret-position="170">
                 <caret line="10" column="68" selection-start-line="10" selection-start-column="68" selection-end-line="10" selection-end-column="68" />
 =======
+=======
+>>>>>>> Stashed changes
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor>
                 <caret column="12" selection-start-column="12" selection-end-column="12" />
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
               </first_editor>
               <second_editor />
             </state>
           </provider>
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
         </entry>
       </file>
@@ -108,6 +118,8 @@
               <caret line="40" column="4" lean-forward="true" selection-start-line="40" selection-start-column="4" selection-end-line="105" selection-end-column="13" />
             </state>
           </provider>
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
         </entry>
@@ -227,7 +239,11 @@
   </component>
   <component name="TimeTrackingManager">
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     <option name="totallyTimeSpent" value="5543000" />
+=======
+    <option name="totallyTimeSpent" value="674000" />
+>>>>>>> Stashed changes
 =======
     <option name="totallyTimeSpent" value="674000" />
 >>>>>>> Stashed changes
@@ -295,6 +311,7 @@
         <state relative-caret-position="493">
           <caret line="35" column="102" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="35" selection-end-column="102" />
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         </state>
       </provider>
     </entry>
@@ -323,6 +340,8 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="367">
           <caret line="40" column="4" lean-forward="true" selection-start-line="40" selection-start-column="4" selection-end-line="105" selection-end-column="13" />
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
         </state>
