@@ -12,3 +12,9 @@ https://developer.paypal.com/docs/checkout/integrate/prerequisites/#
 
 
 https://developer.paypal.com/docs/checkout/integrate/prerequisites/#
+
+
+Compte Gmail // Paypal (bis) : 
+
+User : projetapi.yoann.florian
+mdp : Projet-API
